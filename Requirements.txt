@@ -1,0 +1,7 @@
+Packages:
+1. pandas
+2. seaborn
+3. matplotlib
+4. nltk
+5. xgboost
+6. wordcloud
